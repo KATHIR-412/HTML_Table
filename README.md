@@ -6,7 +6,7 @@
     <title>HTML Table</title>
     <style>
         table {
-            border-collapse: collapse;
+            border-collapse: collapse; 
             width: 100%;
             font-size: 25px;
         }
